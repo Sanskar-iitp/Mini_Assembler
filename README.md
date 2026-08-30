@@ -10,7 +10,7 @@ g++ emu.cpp -o emu
 ```
 
 ### 2. Run the Assembler
-The assembler takes a `.asm` source file as input and generates a binary object file (`.o`) and a listing file (`.lst`). 
+The assembler takes a `.asm` source file (Some sample test files are given) as input and generates a binary object file (`.o`) and a listing file (`.lst`). 
 ```bash
 ./asm program.asm
 ```
